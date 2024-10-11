@@ -120,7 +120,7 @@ Design a vertical Pinterest graphic for a DIY craft project. Include step-by-ste
 ```
     An ambient track with glitchy, fragmented sounds, deep bass pulses, and soft, distant chimes. It should build a sense of unease and confusion, with whispering synths and irregular beats scattered throughout the composition.
 ```
-
+---
 ## Video prompts
 
 Here are 10 creative prompts for generating videos on veed.io
@@ -184,5 +184,38 @@ Jump on a viral TikTok trend by creating a branded challenge or engaging content
 ```
  Create a video that showcases fan or customer-submitted content, displaying how real people use and love your product in their everyday lives.
 ```
+---
 
+## Slides presentation prompts
 
+1. **Heritage Building Preventive Maintenance using Microclimate Data**
+```
+# Slide 1: Title Slide
+## Heritage Building Preventive Maintenance using Microclimate Data
+**Understanding the role of microclimate data in heritage preservation**
+
+# Slide 2: Introduction
+## Importance of Heritage Building Preservation
+- Role of environmental factors in degradation
+- Preventive maintenance as a cost-effective approach
+- Importance of monitoring microclimate conditions
+
+# Slide 3: Research Problem
+## Microclimate Data Challenges
+- Lack of systematic data integration
+- Limitations in existing preventive models
+- Need for continuous monitoring
+
+# Slide 4: Solution
+## Integration of Microclimate Data
+- Real-time data collection (e.g., temperature, humidity)
+- Predictive modeling for degradation
+- Case studies of heritage buildings
+
+# Slide 5: Conclusion
+## Future Research Directions
+- Improving sensor network deployment
+- Advanced predictive models
+- Data-driven decision-making for heritage building maintenance
+
+```
