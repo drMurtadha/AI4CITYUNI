@@ -6,6 +6,8 @@
 
 [Video prompts](https://github.com/drMurtadha/AI4CITYUNI/blob/main/promptIdeas.md#video-prompts)
 
+[Slides presentation prompts](https://github.com/drMurtadha/AI4CITYUNI/blob/main/promptIdeas.md#slides-presentation-prompts)
+
 ## Image Creation Prompts
 Here are 10 creative prompts for generating images using Fotor, covering various themes such as social media, business, personal projects, and marketing:
 
