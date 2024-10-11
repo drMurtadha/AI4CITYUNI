@@ -1,6 +1,6 @@
 # Prompt ideas
 
-
+[Music prompts](Music prompts)
 ## Music prompts
 
 1. **A Shimmering Ocean at Midnight:**
