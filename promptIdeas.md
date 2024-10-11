@@ -1,6 +1,15 @@
 # Prompt ideas
 
 
+## Instagram Theme
+
+10. **User-Generated Content Reel (Instagram)**  
+ Create a video that showcases fan or customer-submitted content, displaying how real people use and love your product in their everyday lives.
+ ```
+ Create a video that showcases fan or customer-submitted content, displaying how real people use and love your product in their everyday lives.
+ ```
+
+
 ## Music prompts
 
 1. **A Shimmering Ocean at Midnight:** A dark, slow-moving ballad with layers of distant, crashing waves. It should feature soft, reverb-soaked guitars, delicate piano lines, and a deep, resonant bass to create a haunting, ethereal atmosphere.
