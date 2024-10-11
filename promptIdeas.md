@@ -57,7 +57,7 @@
 
 Here are 10 creative prompts for generating videos on veed.io
 
-## Social Media Theme
+### Social Media Theme
 
 1. **Product Launch Announcement Video (Instagram/TikTok)**
    ```
@@ -74,7 +74,7 @@ Showcase the day-to-day workings behind the scenes of your brand or event. Captu
 Create a quick, catchy video featuring an influencer using or reviewing your product in a fun and relatable way.
  ```
 
-## Business Theme
+### Business Theme
 
 4. **Company Culture Promo Video (LinkedIn)**  
  ```
@@ -91,7 +91,7 @@ Create a video showcasing glowing client testimonials, focusing on their problem
 Generate a recap video of a recent business event or conference. Highlight the key speakers, moments, and networking opportunities.
  ```
 
-## Training Theme
+### Training Theme
 
 7. **How-To Tutorial (YouTube/Instagram Stories)**  
  ```
@@ -103,14 +103,14 @@ Produce a step-by-step tutorial video that explains how to use your product or s
 Create an informative onboarding video to introduce new employees to company policies, software tools, and team structures in a friendly yet professional tone.
  ```
 
-## TikTok Theme
+### TikTok Theme
 
 9. **Trending Challenge Video (TikTok)**  
  ```
 Jump on a viral TikTok trend by creating a branded challenge or engaging content, encouraging viewers to participate or recreate it with your twist.
  ```
 
-## Instagram Theme
+### Instagram Theme
 
 10. **User-Generated Content Reel (Instagram)**  
   ```
