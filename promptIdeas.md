@@ -1,3 +1,20 @@
+# Copy to Clipboard Example
+
+Click the button below to copy the text:
+
+<button onclick="copyToClipboard()">Copy Text</button>
+
+<script>
+function copyToClipboard() {
+  const textToCopy = 'This is the text to be copied!';
+  navigator.clipboard.writeText(textToCopy).then(() => {
+    alert('Text copied to clipboard!');
+  }).catch(err => {
+    console.error('Failed to copy text: ', err);
+  });
+}
+</script>
+
 # Prompt ideas
 
 
