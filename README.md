@@ -31,5 +31,5 @@ By the end of this workshop, you will:
 
 We are excited to embark on this journey with you and explore the transformative potential of AI in education. Let's get started!
 Go to [tools](tools.md)
-
+You may access the slides presentation for this workshop [here](https://www.canva.com/design/DAGTLkMUuxQ/yzNYKyTPl0Uc4m9-r7o_1g/edit?utm_content=DAGTLkMUuxQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ---
