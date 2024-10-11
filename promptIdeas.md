@@ -219,3 +219,33 @@ Jump on a viral TikTok trend by creating a branded challenge or engaging content
 - Data-driven decision-making for heritage building maintenance
 
 ```
+2. **Sensor Networks for Underwater Wireless Communication**
+```
+# Slide 1: Title Slide
+## Sensor Networks for Underwater Wireless Communication
+**Exploring routing protocols and network challenges in underwater environments**
+
+# Slide 2: Overview
+## Wireless Communication in Underwater Environments
+- Differences from terrestrial communication
+- Role of acoustic waves
+
+# Slide 3: Challenges
+## Technical Challenges in UWASNs
+- High propagation delay
+- Path loss and limited bandwidth
+- Node mobility due to water currents
+
+# Slide 4: Proposed Protocols
+## Solutions to Routing Challenges
+- Delay-tolerant protocols
+- Energy-efficient algorithms
+- Hybrid communication methods
+
+# Slide 5: Conclusion
+## Impact and Future Research
+- Extending the life of underwater sensor networks
+- Integrating with emerging IoT technologies
+
+```
+
