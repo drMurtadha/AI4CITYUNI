@@ -1,10 +1,12 @@
 # Prompt ideas
 
+[Image creation prompts](https://github.com/drMurtadha/AI4CITYUNI/blob/main/promptIdeas.md#image-creation-prompts-for-fotor)
+
 [Music prompts](https://github.com/drMurtadha/AI4CITYUNI/blob/main/promptIdeas.md#music-prompts)
 
 [Video prompts](https://github.com/drMurtadha/AI4CITYUNI/blob/main/promptIdeas.md#video-prompts)
 
-## Image Creation Prompts for Fotor
+## Image Creation Prompts
 Here are 10 creative prompts for generating images using Fotor, covering various themes such as social media, business, personal projects, and marketing:
 
 ### Social Media Theme
