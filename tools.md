@@ -1,4 +1,4 @@
-#AI Tools#
+# AI Tools
 This document aims to explore the myriad ways in which AI is being harnessed for academic excellence and daily efficiency. We will delve into the role of AI in education, its impact on productivity, and how it is shaping the future of work. Join us as we embark on this exciting journey into the world of AI empowerment.
 
 Here is the information:
