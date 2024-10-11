@@ -1,6 +1,6 @@
 # Prompt ideas
 
-[Music prompts](Music prompts)
+[Music prompts]([Music prompts](https://github.com/drMurtadha/AI4CITYUNI/blob/main/promptIdeas.md#music-prompts))
 ## Music prompts
 
 1. **A Shimmering Ocean at Midnight:**
