@@ -3,6 +3,12 @@
 [Music prompts](https://github.com/drMurtadha/AI4CITYUNI/blob/main/promptIdeas.md#music-prompts)
 
 [Video prompts](https://github.com/drMurtadha/AI4CITYUNI/blob/main/promptIdeas.md#video-prompts)
+
+## Image Creation Prompts for Fotor
+
+1. **Create a vibrant Instagram post for a summer sale**  
+
+
 ## Music prompts
 
 1. **A Shimmering Ocean at Midnight:**
