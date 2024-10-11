@@ -250,4 +250,31 @@ Jump on a viral TikTok trend by creating a branded challenge or engaging content
 - Integrating with emerging IoT technologies
 
 ```
+3. **Advances in Digital Logic Design**
+```
+# Slide 1: Title Slide
+## Advances in Digital Logic Design
+**From basic gates to complex digital systems**
+
+# Slide 2: Fundamentals
+## Understanding Digital Logic
+- Boolean algebra and logic gates
+- Key concepts: AND, OR, NOT, XOR
+
+# Slide 3: Complex Circuit Design
+## Designing Efficient Systems
+- Use of Karnaugh maps
+- Minimization of logic expressions
+
+# Slide 4: Recent Advances
+## Modern Techniques in Digital Logic
+- FPGA design and applications
+- Role of quantum computing in future systems
+
+# Slide 5: Conclusion
+## Challenges and Opportunities
+- Reducing power consumption in large systems
+- Scaling complexity in digital logic applications
+
+```
 
