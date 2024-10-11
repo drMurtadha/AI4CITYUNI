@@ -5,7 +5,49 @@
 [Video prompts](https://github.com/drMurtadha/AI4CITYUNI/blob/main/promptIdeas.md#video-prompts)
 
 ## Image Creation Prompts for Fotor
+Here are 10 creative prompts for generating images using Fotor, covering various themes such as social media, business, personal projects, and marketing:
 
+### Social Media Theme
+
+1. **Instagram Post Template**  
+```   Create a vibrant and trendy Instagram post template that promotes a new product release. Use bold fonts, colorful backgrounds, and space for images and text.```
+
+2. **Facebook Event Banner**  
+   "Design a professional Facebook event banner for an upcoming webinar. Include the event title, date, time, and speaker details with a clean and modern look."
+
+3. **Twitter Header for Personal Brand**  
+   "Generate a sleek Twitter header for a personal brand. Include a professional headshot, subtle branding elements, and a tagline."
+
+### Business Theme
+
+4. **Business Card Design**  
+   "Create a minimalist business card design using modern typography and a sleek color palette. Include space for name, title, contact info, and company logo."
+
+5. **LinkedIn Post Graphic**  
+   "Design a graphic for a LinkedIn post announcing a company's latest blog article. Use a professional style with space for an eye-catching headline and blog URL."
+
+6. **Flyer for Business Event**  
+   "Create a visually engaging flyer for a corporate networking event. Include event details, company logos, and a space for a call-to-action, using a sophisticated and professional theme."
+
+### Marketing & Promotions
+
+7. **Promotional Banner for Website**  
+   "Design a promotional banner for a website homepage. Highlight a limited-time offer using bold text, bright colors, and space for product images."
+
+8. **YouTube Thumbnail for Tutorial**  
+   "Generate an eye-catching YouTube thumbnail for a tutorial video. Use large, bold fonts and an image of a person demonstrating the product, with contrasting colors for text."
+
+### Personal Projects
+
+9. **Custom Birthday Invitation**  
+   "Create a fun and personalized birthday invitation with playful fonts, bright colors, and themed graphics. Leave space for details like date, time, and location."
+
+10. **Pinterest Graphic for DIY Project**  
+    "Design a vertical Pinterest graphic for a DIY craft project. Include step-by-step visuals with minimal text and a clear title using warm, inviting colors."
+
+---
+
+These prompts provide a variety of ideas to create graphics on Fotor. You can customize the templates and add elements as needed for different purposes! Let me know which one you'd like to start with.
 1. **Create a vibrant Instagram post for a summer sale**  
 
 
