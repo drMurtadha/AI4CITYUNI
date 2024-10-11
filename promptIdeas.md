@@ -277,4 +277,57 @@ Jump on a viral TikTok trend by creating a branded challenge or engaging content
 - Scaling complexity in digital logic applications
 
 ```
+4. **Network Communication Protocols for IoT**
+```
+# Slide 1: Title Slide
+## Network Communication Protocols for IoT
+**Optimizing communication for connected devices**
 
+# Slide 2: IoT Overview
+## What is the Internet of Things?
+- Network of physical devices
+- Real-time communication and data sharing
+
+# Slide 3: Protocols Overview
+## Key Communication Protocols in IoT
+- MQTT, CoAP, and HTTP
+- Wireless protocols: ZigBee, LoRa, Wi-Fi
+
+# Slide 4: Challenges
+## Overcoming Network Constraints
+- Bandwidth limitations
+- Energy efficiency and security concerns
+
+# Slide 5: Conclusion
+## Future of IoT Networking
+- Edge computing
+- 5G integration
+
+```
+5. **Indoor Positioning Systems using Wireless Sensor Networks**
+```
+# Slide 1: Title Slide
+## Indoor Positioning Systems using Wireless Sensor Networks
+**Leveraging wireless technology for precise indoor navigation**
+
+# Slide 2: Introduction
+## What is Indoor Positioning?
+- Need for accurate indoor location tracking
+- Difference between indoor and outdoor positioning
+
+# Slide 3: Wireless Sensor Networks in Positioning
+## Role of Wireless Sensor Networks (WSNs)
+- Types of sensors used
+- Data collection and processing
+
+# Slide 4: Challenges
+## Technical Challenges in Indoor Positioning
+- Multipath interference
+- Signal attenuation and accuracy
+
+# Slide 5: Conclusion
+## Improving Positioning Accuracy
+- Hybrid positioning methods
+- Integration with AI and machine learning
+
+```
