@@ -30,6 +30,6 @@ By the end of this workshop, you will:
 - Network with like-minded professionals and share best practices.
 
 We are excited to embark on this journey with you and explore the transformative potential of AI in education. Let's get started!
-Go to [tools]()
+Go to [tools](tools.md)
 
 ---
